@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<beans>
-       <bean id="fizzBuzz" class="com.asp.fizzbuzz.service.impl.FizzBuzzServiceImpl" ></bean>
-       <bean id="integerToBuzz" class="com.asp.fizzbuzz.service.impl.IntegerToBuzzServiceImpl" ></bean>
-       <bean id="IntegerToFizz" class="com.asp.fizzbuzz.service.impl.IntegerToFizzServiceImpl" ></bean>
-</beans>
