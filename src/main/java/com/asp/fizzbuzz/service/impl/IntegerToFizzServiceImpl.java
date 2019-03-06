@@ -14,7 +14,7 @@ public class IntegerToFizzServiceImpl implements IntegerToStringService {
 	}
 
 	public boolean support(int n) {
-		return 0 == n%3 || String.valueOf(n).contains("3");
+		return 0 == n%3 ;
 	}
 
 }
